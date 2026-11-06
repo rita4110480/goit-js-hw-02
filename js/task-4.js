@@ -20,4 +20,4 @@ console.log(getShippingCost("Chile"));
 console.log(getShippingCost("Jamaica"));
 console.log(getShippingCost("Sweden")); 
 
-console.log(typeof country);
+
